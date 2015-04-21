@@ -1,0 +1,27 @@
+{
+  "name": "is-emoji-keyword",
+  "description": "Check if a word is a emoji shortcut",
+  "homepage": "https://github.com/Kikobeats/is-emoji-keyword",
+  "version": "0.0.0",
+  "main": "./dist/is-emoji-keyword.js",
+  "authors": [
+    {
+      "name": "Kiko Beats",
+      "email": "josefrancisco.verdu@gmail.com",
+      "homepage": "https://github.com/Kikobeats"
+    }
+  ],
+  "repository": "Kikobeats/is-emoji-keyword",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/is-emoji-keyword/issues"
+  },
+  "keywords": [],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
