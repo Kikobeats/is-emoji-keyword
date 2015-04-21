@@ -46,8 +46,8 @@ isEmoji(':smile:'); // => true
 
 `options` can be:
 
-* keywords: words without `:`. By default the value is `true`
-* shortcuts: words betwen `:`. By default the value is `true`
+* keywords: words without `:`. By default the value is `true`.
+* shortcuts: words betwen `:`. By default the value is `true`.
 
 ## License
 
