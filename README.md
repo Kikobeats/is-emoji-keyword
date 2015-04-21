@@ -35,7 +35,7 @@ isEmoji('smile');   // => true
 isEmoji(':smile:'); // => true
 ```
 
-You can provide custom options when you require the package for determine how to determine if a word is a emoji:
+You can provide custom options when you require the package for specify how to determine if a word is an emoji:
 
 ```js
 var isEmoji = require('is-emoji-keyword')({keywords: false, shortcuts: true});
