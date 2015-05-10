@@ -3,15 +3,15 @@
 var emojis = require('emojis-keywords');
 
 var emojiWord = function(word) {
-  var firstChar = word.charAt(0),
-      lastChar  = word.charAt(word.length - 1);
+  var firstChar = word.charAt(0);
+  var lastChar  = word.charAt(word.length - 1);
 
   if (firstChar === lastChar && firstChar === ':') {
     if (this && !this.shortcuts) return false;
     word = word.split(':')[1];
   } else if (this && !this.keywords) return false;
 
-  return emojis.indexOf(word) > 0 ? true : false;
+  return emojis.indexOf(word) !== -1;
 };
 
 exports = module.exports = function() {
