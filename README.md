@@ -49,6 +49,14 @@ isEmoji(':smile:'); // => true
 * keywords: words without `:`. By default the value is `true`.
 * shortcuts: words betwen `:`. By default the value is `true`.
 
+## Related
+
+* [emojis-list](https://github.com/Kikobeats/emojis-list) – Complete list of standard emojis.
+* [emojis-keywords](https://github.com/Kikobeats/emojis-keywords) – Complete list of am emoji shortcuts.
+* [emojis-unicode](https://github.com/Kikobeats/emojis-unicode) – Complete list of standard Unicode codes that represent emojis.
+* [is-standard-emoji](https://github.com/kikobeats/is-standard-emoji) – Simply way to check if a emoji is a standard emoji. 
+* [trim-emoji](https://github.com/Kikobeats/trim-emoji) – Deletes ':' from the begin and the end of an emoji shortcut.
+
 ## License
 
 MIT © [Kiko Beats](http://www.kikobeats.com)
