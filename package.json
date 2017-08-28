@@ -26,7 +26,7 @@
     "gulp-uglify": "*",
     "gulp-util": "*",
     "mocha": "*",
-    "should": "*",
+    "should": "11.2.1",
     "vinyl-buffer": "*",
     "vinyl-source-stream": "*"
   },
