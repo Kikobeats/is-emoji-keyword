@@ -15,20 +15,20 @@
   },
   "keywords": ["emoji", "shortcut", "keyword"],
   "dependencies": {
-    "emojis-keywords": "*"
+    "emojis-keywords": "latest"
   },
   "devDependencies": {
-    "browserify": "*",
-    "coffee-script": "*",
-    "coffeeify": "*",
-    "gulp": "*",
-    "gulp-header": "*",
-    "gulp-uglify": "*",
-    "gulp-util": "*",
-    "mocha": "*",
-    "should": "*",
-    "vinyl-buffer": "*",
-    "vinyl-source-stream": "*"
+    "browserify": "latest",
+    "coffee-script": "latest",
+    "coffeeify": "latest",
+    "gulp": "latest",
+    "gulp-header": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
   },
   "engines": {
     "node": ">= 0.10.0",
