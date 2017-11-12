@@ -1,7 +1,5 @@
 # is-emoji-keyword
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/is-emoji-keyword.svg)](https://greenkeeper.io/)
-
 [![Build Status](http://img.shields.io/travis/Kikobeats/is-emoji-keyword/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/is-emoji-keyword)
 [![Dependency status](http://img.shields.io/david/Kikobeats/is-emoji-keyword.svg?style=flat-square)](https://david-dm.org/Kikobeats/is-emoji-keyword)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/is-emoji-keyword.svg?style=flat-square)](https://david-dm.org/Kikobeats/is-emoji-keyword#info=devDependencies)
